@@ -84,5 +84,13 @@
             android:textSize="22sp"
             tools:visibility="invisible" />
 
+        <Button
+            android:id="@+id/button_next"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Дальше"
+            android:visibility="invisible"
+            tools:visibility="invisible" />
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
